@@ -1,0 +1,28 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Club Robot Insa Rennes"
+theme = "ananke"
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 8 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  logo = "http://localhost:1313/images/logo_blanc.png"
+  description = ""
+  facebook = ""
+  twitter = ""
+  youtube = "https://www.youtube.com/channel/UClb8TbQc3atbJL6qw8v9fhw"
+  github = "https://github.com/clubrobot"
+  stackoverflow = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-white"
+  recent_posts_number = 3
