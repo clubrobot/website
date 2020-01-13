@@ -22,7 +22,7 @@
         <p class="f6 lh-copy mv0">By {{ .Author }}</p> */}}
       </div>
       {{ if .Params.robot_footage }}
-      <div class="pr3-ns mb4 mb0-ns w-50 w-50-ns">
+      <div class="pr3-ns mb4 mb0-ns w-100 w-70-ns">
           <a href="{{.Permalink}}" class="db grow">
             <img src="{{ $robot_footage }}" class="img" alt="image from {{ .Title }}">
           </a>
@@ -31,7 +31,7 @@
       {{ if .Params.article_cover }}
           {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
         {{ $article_cover := (trim $article_cover "/") | absURL }}
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
+        <div class="pr3-ns mb4 mb0-ns w-50 w-40-ns">
           <a href="{{.Permalink}}" class="db grow">
             <img src="{{ $article_cover }}" class="img" alt="image from {{ .Title }}">
           </a>
