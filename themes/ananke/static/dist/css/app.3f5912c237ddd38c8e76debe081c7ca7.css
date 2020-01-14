@@ -6,3 +6,34 @@ table{
     table-layout: fixed;
     width: 100%;
 }
+
+.SponsorTable {
+    width : 100%;
+    table-layout: auto;
+}
+
+@media screen and (max-width: 600px) {
+    .SponsorTable thead {
+        border: none;
+        clip: rect(0 0 0 0);
+        height: 1px;
+        margin: -1px;
+        overflow: hidden;
+        padding: 0;
+        position: absolute;
+        width: 1px;
+      }
+      
+
+      
+      .SponsorTable td {
+        border-bottom: 0px;
+        display: block;
+        text-align: left;
+      }
+      
+      .SponsorTable td::before {
+        content: attr(data-label);
+        float: left;
+      }
+}
