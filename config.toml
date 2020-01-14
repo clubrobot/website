@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://clubrobot.github.io/website/"
 languageCode = "fr-fr"
 title = "Club Robot Insa Rennes"
 theme = "ananke"
@@ -16,7 +16,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  logo = "http://localhost:1313/images/logo_blanc.png"
+  logo = "https://clubrobot.github.io/website/images/logo_blanc.png"
   description = "Equipe de robotique"
   facebook = "https://www.facebook.com/clubrobot/"
   twitter = ""
