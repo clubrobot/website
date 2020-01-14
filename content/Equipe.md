@@ -7,7 +7,7 @@ menu: main
 
 # Saison 2019-2020
 
-TODO
+Bientôt disponible…
 
 
 # Saison 2018-2019
@@ -15,8 +15,8 @@ TODO
 - Président : Antoine Riotte
 - Trésorier : Mathis Lecrivain
 - Equipe informatique : François Gauthier-Clerc, Mathieu Percelay
-- Equipe electronique : Antoine Riotte, Antoine Pégné, Mathis Lecrivain, Arthur Ronisch
-- Equipe mécanique : Matthieu Le Paboul, Ding Zhang, TODO
+- Equipe electronique : Antoine Riotte, Antoine Pégné, Mathis Lecrivain, Arthur Ronisch, Thomas Mevel, Guillaume Deltombe, Zakaria EL ALAMI, Thomas Mevel, 
+- Equipe mécanique : Matthieu Le Paboul, Ding Zhang
 
 
 # Saison 2017-2018

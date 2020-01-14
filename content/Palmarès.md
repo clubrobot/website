@@ -4,6 +4,9 @@ featured_image: '/images/palmares.jpg'
 menu: main
 ---
 
+*  ###  2019 : Atom Factory
+    Deuxième de la pré-coupe du Mans par l'ENSIM-ELEC.
+    Après quelques problèmes pneumatique, nous terminons 9 ex aequo de la coupe de France !!!
 
 *  ###  2018 : Robot Cities
     Deuxième de la pré-coupe du Mans organisée par l'ENSIM-ELEC
