@@ -2,7 +2,7 @@
 title: "Sponsors"
 menu: main
 featured_image:  '/images/splash.jpg'
-sponsors: ["/images/logo_insa_tran.png", "/images/amical_min.png", "/images/logo_exotec_0.png", "/images/faulhaber_front.png", "/images/filimprimente3DLogo.jpeg"]
+sponsors: ["../images/logo_insa_tran.png", "../images/amical_min.png", "../images/logo_exotec_0.png", "../images/faulhaber_front.png", "../images/filimprimente3DLogo.jpeg"]
 
 ---
 
