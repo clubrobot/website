@@ -14,7 +14,7 @@ Nous remercions tous nos partenaires pour nous avoir fait confiance cette saison
 
     ![test](/images/exotec.png)
 
-*  # Faulaberth
+*  # Faulhaber
    FAULHABER est une entreprise réalisant des systèmes d’entraînement. Grâce à sa diversité technologique, FAULHABER conçoit des solutions d’entraînement uniques de par leur précision et leur fiabilité dans un minimum d’espace. 
     ![test](/images/faulhaber.png)
 
