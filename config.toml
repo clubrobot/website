@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://test.org/"
 languageCode = "fr-fr"
 title = "Club Robot Insa Rennes"
 theme = "ananke"
