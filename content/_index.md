@@ -2,7 +2,7 @@
 title: "Club Robot Insa Rennes"
 featured_image: '/images/splash.jpg'
 description: ""
-sponsors: ["images/logo_insa_tran.png", "images/amical_min.png", "images/logo_exotec_0.png", "images/faulhaber_front.png", "images/filimprimente3DLogo.jpeg"]
+sponsors: ["images/logo_insa_tran.png", "images/amical_min.png", "images/logo_exotec_0.png", "images/elsys.png", "images/filimprimente3DLogo.jpeg"]
 ---
 
 
