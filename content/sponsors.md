@@ -13,7 +13,7 @@ Nous remercions tous nos partenaires pour nous faire confiance cette saison :
 
     ![Exotec_logo](/images/exotec.png)
 
-*  # Elsys Design
+*  # ELSYS Design
     ELSYS Design est une société d’ingénierie spécialiste de la conception de systèmes embarqués. Elle accompagne ses clients dans des projets à forte  valeur ajoutée technique dans les domaines du logiciel embarqué, de la carte, de la microélectronique et du système embarqué.
     ![Elsys_logo](/images/elsys.png)
 
