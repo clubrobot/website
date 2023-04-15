@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>ClubRobot INSA Rennes</title>
-    <link href="https://github.com/clubrobot/website/feed.xml" rel="self" />
-    <link href="https://github.com/clubrobot/website" />
+    <link href="https://clubrobot.insa-rennes.fr/feed.xml" rel="self" />
+    <link href="https://clubrobot.insa-rennes.fr" />
     <updated>2023-04-15T13:36:57+02:00</updated>
     <author>
         <name>CRINSA</name>
     </author>
-    <id>https://github.com/clubrobot/website</id>
+    <id>https://clubrobot.insa-rennes.fr</id>
 
     <entry>
         <title>Bienvenue au Club Robotique de l&#x27;INSA de Rennes</title>
         <author>
             <name>CRINSA</name>
         </author>
-        <link href="https://github.com/clubrobot/website/bienvenue-au-club-robotique-de-linsa-de-rennes/"/>
-        <id>https://github.com/clubrobot/website/bienvenue-au-club-robotique-de-linsa-de-rennes/</id>
-        <media:content url="https://github.com/clubrobot/website/media/posts/1/logo.png" medium="image" />
+        <link href="https://clubrobot.insa-rennes.fr/bienvenue-au-club-robotique-de-linsa-de-rennes/"/>
+        <id>https://clubrobot.insa-rennes.fr/bienvenue-au-club-robotique-de-linsa-de-rennes/</id>
+        <media:content url="https://clubrobot.insa-rennes.fr/media/posts/1/logo.png" medium="image" />
 
         <updated>2023-04-15T13:36:57+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/clubrobot/website/media/posts/1/logo.png" alt="" />
+                        <img src="https://clubrobot.insa-rennes.fr/media/posts/1/logo.png" alt="" />
                     Wow, un nouveau site! En effet, on vient de créer un nouveau siteweb pour l'équipe 2023 et à venir. Pour l'instant le site n'aura pas beaucoup de posts mais bientôt il y en aura! On vous garde au courant!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/clubrobot/website/media/posts/1/logo.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://clubrobot.insa-rennes.fr/media/posts/1/logo.png" class="type:primaryImage" alt="" /></p>
                 <h1>Wow, un nouveau site!</h1>
 <p>En effet, on vient de créer un nouveau siteweb pour l'équipe 2023 et à venir.</p>
 <p> </p>

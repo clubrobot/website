@@ -2,21 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "ClubRobot INSA Rennes",
     "description": "",
-    "home_page_url": "https://github.com/clubrobot/website",
-    "feed_url": "https://github.com/clubrobot/website/feed.json",
+    "home_page_url": "https://clubrobot.insa-rennes.fr",
+    "feed_url": "https://clubrobot.insa-rennes.fr/feed.json",
     "user_comment": "",
-    "icon": "https://github.com/clubrobot/website/media/website/avatar_rondpng.png",
+    "icon": "https://clubrobot.insa-rennes.fr/media/website/avatar_rondpng.png",
     "author": {
         "name": "CRINSA"
     },
     "items": [
         {
-            "id": "https://github.com/clubrobot/website/bienvenue-au-club-robotique-de-linsa-de-rennes/",
-            "url": "https://github.com/clubrobot/website/bienvenue-au-club-robotique-de-linsa-de-rennes/",
+            "id": "https://clubrobot.insa-rennes.fr/bienvenue-au-club-robotique-de-linsa-de-rennes/",
+            "url": "https://clubrobot.insa-rennes.fr/bienvenue-au-club-robotique-de-linsa-de-rennes/",
             "title": "Bienvenue au Club Robotique de l&#x27;INSA de Rennes",
             "summary": "Wow, un nouveau site! En effet, on vient de créer un nouveau siteweb pour l'équipe 2023 et à venir. Pour l'instant le site n'aura pas beaucoup de posts mais bientôt il y en aura! On vous garde au courant!",
             "content_html": "<h1>Wow, un nouveau site!</h1>\n<p>En effet, on vient de créer un nouveau siteweb pour l'équipe 2023 et à venir.</p>\n<p> </p>\n<p>Pour l'instant le site n'aura pas beaucoup de posts mais bientôt il y en aura!</p>\n<p> </p>\n<p>On vous garde au courant!</p>",
-            "image": "https://github.com/clubrobot/website/media/posts/1/logo.png",
+            "image": "https://clubrobot.insa-rennes.fr/media/posts/1/logo.png",
             "author": {
                 "name": "CRINSA"
             },
